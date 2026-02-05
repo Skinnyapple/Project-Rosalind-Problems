@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE: SUBS and CODONS
-PURPOSE OF PROJECT: Finding motifs in DNA and translating RNA to protein
-VERSION or DATE: 1.0
+PROJECT TITLE: Project ROSALIND HWs
+VERSION or DATE: 2/6/2026
+
 
 
 
